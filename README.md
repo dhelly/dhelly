@@ -9,3 +9,4 @@ Would you like to find me?
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fdhelly)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinefernandespb)](https://www.linkedin.com/in/jaquelinefernandespb)
 
+[![Dhelly's github stats](https://github-readme-stats.vercel.app/api?username=dhelly)](https://github.com/anuraghazra/github-readme-stats)
